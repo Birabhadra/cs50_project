@@ -1,5 +1,5 @@
-# SafePass – A simple password manager!
-YouTube link: https://www.youtube.com/watch?v=6gIjukx4Ch8
+# SafePass – A password manager!
+YouTube link: https://youtu.be/79Kk_gav9Vs
 > [!IMPORTANT]
 > Please, do not store your real passwords into this program!
 
@@ -7,7 +7,7 @@ YouTube link: https://www.youtube.com/watch?v=6gIjukx4Ch8
 > I made the decision not to deploy this project for a straightforward reason: I'm not a cryptographer. My approach involved following library instructions and attempting to be sensible while developing this web application. The immense complexity in this field, coupled with the ever-evolving threats and attacks driven by advancements in technology and computational power, led me to the conclusion that I shouldn't solely depend on users to act reasonably by heeding my advice not to store their actual passwords in this program.  
 
 ## Introduction
-This repository was submitted as the final project for CS50X 2023 online course offered by Harvard University. It’s a web application built around Flask’s framework and some software development/web programming languages covered by the course, such as Python, JavaScript, SQL, HTML and CSS. The application is designed for storing passwords.
+This repository was submitted as the final project for CS50X 2025 online course offered by Harvard University. It’s a web application built around Flask’s framework and some software development/web programming languages covered by the course, such as Python, JavaScript, SQL, HTML and CSS. The application is designed for storing passwords.
 
 The central component of the application is the **password vault**, where the user can **store**, **retrieve**, **upload** and **delete** their credentials from other sites or apps, which encompass domains, usernames, and passwords. To enable these interactions, the main application is **supported by additional files**, that contain **utilities** and **security** functions. 
 
