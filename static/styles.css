@@ -1,0 +1,18 @@
+.btn:focus,
+.btn.focus {
+  outline: solid black;
+  }
+
+.container.mx-0.px-0 {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    background-clip: padding-box;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+    max-width: 19.375rem;
+}
+
+.form-control.mb-0.mx-auto.w-auto {
+  border: none;
+  display: inline-block;
+}
